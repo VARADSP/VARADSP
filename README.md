@@ -5,7 +5,7 @@
 <a href="">
   <img align="left" alt="Varad Paralikar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/varad-paralikar-38378a126/">
+<a href="https://www.linkedin.com/in/varad-paralikar-38378a126/" >
   <img align="left" alt="Varad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="">

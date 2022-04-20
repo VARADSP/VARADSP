@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/varad-paralikar-38378a126/" >
   <img align="left" alt="Varad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://medium.com/@machinelearn81">
   <img align="left" alt="Varad's Medium" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/logo-medium.svg" />
 </a>
 

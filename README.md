@@ -11,6 +11,9 @@
 <a href="https://medium.com/@machinelearn81">
   <img align="left" alt="Varad's Medium" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/logo-medium.svg" />
 </a>
+<a href="https://debuggingbug.wordpress.com/">
+  <img align="left" alt="Varad's Medium" width="22px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 

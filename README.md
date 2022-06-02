@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@varadparalikar](https://www.linkedin.com/in/varad-parlikar-38378a126/);
+- 📫 How to reach me: [@varadparalikar](https://www.linkedin.com/in/varad-paralikar-38378a126/);
 - 📝 [Resume](https://varadsp.github.io/files/varad_paralikar_resume.pdf)
 
 **Languages and Tools:**  

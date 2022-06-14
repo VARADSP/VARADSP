@@ -9,7 +9,7 @@
   <img align="left" alt="Varad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@machinelearn81">
-  <img align="left" alt="Varad's Medium" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/logo-medium.svg" />
+  <img align="left" alt="Varad's Medium" width="22px" src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" />
 </a>
 <a href="https://debuggingbug.wordpress.com/">
   <img align="left" alt="Varad's Wordpress" width="22px" src="https://cdn.cdnlogo.com/logos/w/94/wordpress-blue.svg" />

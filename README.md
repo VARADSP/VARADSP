@@ -9,7 +9,7 @@
   <img align="left" alt="Varad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/spartaclub86?hr_r=1" target="_blank">
-		<img align="left" alt="Varad's Hackerrank" width="22px" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" />    
+		<img align="left" alt="Varad's Hackerrank" width="24px" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" />    
 </a>			
 <a href="https://leetcode.com/machinelearn81/" target="_blank">
 		<img align="left" alt="Varad's Leetcode" width="22px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />

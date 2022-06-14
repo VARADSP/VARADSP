@@ -12,8 +12,12 @@
   <img align="left" alt="Varad's Medium" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/logo-medium.svg" />
 </a>
 <a href="https://debuggingbug.wordpress.com/">
-  <img align="left" alt="Varad's Medium" width="22px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg" />
+  <img align="left" alt="Varad's Wordpress" width="22px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg" />
 </a>
+<a href="https://techievsp.blogspot.com/">
+  <img align="left" alt="Varad's Blogspot" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 

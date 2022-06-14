@@ -12,7 +12,7 @@
 		<img align="left" alt="Varad's Hackerrank" width="22px" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" />    
 </a>			
 <a href="https://leetcode.com/machinelearn81/" target="_blank">
-		<img align="left" alt="Varad's Leetcode" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/leetcode.svg" />
+		<img align="left" alt="Varad's Leetcode" width="22px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>                  
 <a href="https://medium.com/@machinelearn81">
   <img align="left" alt="Varad's Medium" width="22px" src="https://cdn.cdnlogo.com/logos/m/21/monogram-medium.svg" />

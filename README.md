@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
-  <img align="left" alt="Varad's Discord" width="22px" style="word-wrap: break-word;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Varad's Discord" width="22px" style="word-wrap: break-word;" src="https://en.m.wikipedia.org/wiki/File:Discord_Color_Text_Logo_(2015-2021).svg#/media/File%3ADiscord_color_D.svg" />
 </a>
 <a href="">
-  <img align="left" alt="Varad Paralikar | Twitter" width="22px" style="word-wrap: break-word;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Varad Paralikar | Twitter" width="22px" style="word-wrap: break-word;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Twitter_icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/varad-paralikar-38378a126/" >
-  <img align="left" alt="Varad's LinkedIN" width="22px" style="word-wrap: break-word;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Varad's LinkedIn" width="22px" style="word-wrap: break-word;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://www.hackerrank.com/spartaclub86?hr_r=1" target="_blank">
 		<img align="left" alt="Varad's Hackerrank" width="24px" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" />    

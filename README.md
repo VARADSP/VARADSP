@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
-  <img align="left" alt="Varad's Discord" width="22px" style="word-wrap: break-word;color: #000080;" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bootstrap_discord.svg" />
+ <div style="background-color: #000080; display: inline-block; padding: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bootstrap_discord.svg" alt="Varad's Discord" width="22px" />
+</div>
 </a>
 <a href="">
   <img align="left" alt="Varad Paralikar | Twitter" width="22px" style="word-wrap: break-word;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Twitter_icon.svg" />
